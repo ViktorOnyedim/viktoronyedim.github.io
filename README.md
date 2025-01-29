@@ -1,5 +1,4 @@
-# viktoronyedim.github.io
-#Data Scientist
+# Data Scientist
 
 ### Education
 Physics, B.Tech
