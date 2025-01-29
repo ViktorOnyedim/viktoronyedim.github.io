@@ -14,6 +14,5 @@ developments in machine learning, physics, and their
 intersection, fostering continuous learning and professional growth.
 
 ## Projects
-### Development and implementation of Physics informed neural networks
-for improving tissue classification in Diffusion MRI.
+### Development and implementation of Physics informed neural networks for improving tissue classification in Diffusion MRI.
 
