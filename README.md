@@ -1,9 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL
+#### Technical Skills: Python, Git Version Control, SQL
 
 ## Education
-- B.Tech, Physics | Federal University of Technology Minna (February 2024)
+- B.Tech, Physics | Federal University of Technology Minna (Feb. 2024)
 
 ### Work Experience
 **RESEARCHER (PHYSICS INFORMED NEURAL NETWORKS)**
@@ -14,6 +14,6 @@ developments in machine learning, physics, and their
 intersection, fostering continuous learning and professional growth.
 
 ## Projects
-### EEG Band Discovery
+### Development and implementation of Physics informed neural networks
+for improving tissue classification in Diffusion MRI.
 
-Description
